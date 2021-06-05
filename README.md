@@ -1,2 +1,2 @@
-# Hover-Table
-Responsive-css3
+# Hoverable Table
+Responsive css3 Table with cool hover effect
